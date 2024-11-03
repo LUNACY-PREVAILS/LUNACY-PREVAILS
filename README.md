@@ -1,4 +1,4 @@
- <img src="https://media.discordapp.net/attachments/1077363198241546303/1302494467797811220/Untitled580_20241102234752.png?ex=67285200&is=67270080&hm=bee9eca9235795827953108541b72ee0cf70d30d58f0725da8efb9173ddaaed9&=&format=webp&quality=lossless&width=950&height=700" />
+ <img src="https://media.discordapp.net/attachments/1077363198241546303/1302497516452839505/Untitled582_20241103000002.png?ex=672854d7&is=67270357&hm=1bcecf8cc7caef872b962be9af142510146c19a1428045a1152bfe7f2c742243&=&format=webp&quality=lossless&width=1100&height=542" />
  
-<img src="https://media.discordapp.net/attachments/1077363198241546303/1302494474584326185/Untitled580_20241102234754.png?ex=67285201&is=67270081&hm=e509b60c98279f27e6b0039a0f953d8f810fca2a8cb513eb2991376bcb693800&=&format=webp&quality=lossless&width=950&height=700" />
+<img src="https://media.discordapp.net/attachments/1077363198241546303/1302497520269787207/Untitled582_20241103000000.png?ex=672854d8&is=67270358&hm=eab223ecf3751e52fe17d944398be13b49a5d785b9b0cd55562b1027060927bc&=&format=webp&quality=lossless&width=1820&height=898" />
 
