@@ -1,1 +1,1 @@
- <img src="https://media.discordapp.net/attachments/1077363198241546303/1302743403053846599/Untitled584_20241103151622.png?ex=672939d7&is=6727e857&hm=fbfdfb136861afb4ded8c7d70e1b77552737db135c40edd393444f41d895b7ba&=&format=webp&quality=lossless&width=604&height=700" />
+ <img src="https://media.discordapp.net/attachments/1077363198241546303/1302743733594488972/Untitled584_20241103151821.png?ex=67293a25&is=6727e8a5&hm=a0c60b76032b9e5228518b4bb8ac323d27be88dde221ed4ca4e07288588e6617&=&format=webp&quality=lossless&width=604&height=700" />
