@@ -4,10 +4,7 @@ $\textcolor{darkgray}{ 𓎟𓎟 \ 𓎟 }$
   
 <p align="center">
 $\textcolor{darkgray}{C+H \ \ FRiENDLY \ ⠀⠀\ \ USUALLY \ \ OFFTAB, \ \ W2i  \ \ ⠀ }$
- 
-<p align="center">
-$\color{olive}{𓊆ྀི𖠁𓊇ྀི}$
- 
+
  <p align="center">
   $\textcolor{darkgray}{SOCiALLY \ \ ANXiOUS, \ \  ⠀ \ BE \ \ KiND \ .ᐟ}$
 </p>
